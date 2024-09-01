@@ -86,29 +86,52 @@
     - **Controle de Acesso e Permissões:**
       - Implementação de roles e permissões de acesso
 
-#### Módulo 4: Funcionalidades e Integração
+#### Módulo 4: Documentação da API
 
-12. **Aula 12: Implementação da Funcionalidade de Compra de Ingressos**
+12. **Aula 12: Introdução à Documentação da API**
+    - **Importância da Documentação:**
+      - Por que documentar a API é essencial
+      - Benefícios para desenvolvedores e usuários finais
+    - **Principais Ferramentas de Documentação:**
+      - Swagger/OpenAPI e outras ferramentas
+
+13. **Aula 13: Configurando Swagger para Documentação**
+    - **Introdução ao Swagger:**
+      - O que é Swagger e como ele ajuda na documentação de APIs
+    - **Configuração do Swagger no Spring Boot:**
+      - Adicionando dependências e configurando o Swagger no projeto
+    - **Documentação Básica com Swagger:**
+      - Criando e visualizando documentação básica de endpoints
+
+14. **Aula 14: Refinando a Documentação da API**
+    - **Adicionando Anotações e Exemplos:**
+      - Uso de anotações Swagger para melhorar a documentação
+    - **Testando e Validando a Documentação:**
+      - Como testar a documentação e garantir que está correta e completa
+
+#### Módulo 5: Funcionalidades e Integração
+
+15. **Aula 15: Implementação da Funcionalidade de Compra de Ingressos**
     - **Criação de Endpoints para Compra:**
       - Implementação dos endpoints para compra de ingressos
     - **Lógica de Compra e Gestão de Ingressos:**
       - Implementação da lógica de compra e gerenciamento de ingressos
 
-13. **Aula 13: Gerenciamento de Eventos e Usuários**
+16. **Aula 16: Gerenciamento de Eventos e Usuários**
     - **Gerenciamento de Eventos:**
       - Funcionalidades para atualização e exclusão de eventos
     - **Gerenciamento de Usuários:**
       - Funcionalidades para administração e gerenciamento de usuários
 
-14. **Aula 14: Integração e Testes**
+17. **Aula 17: Integração e Testes**
     - **Integração dos Componentes:**
       - Integração entre controllers, serviços, e repositórios
     - **Testes de Unidade e Integração:**
       - Implementação de testes usando Spring Boot Test
 
-#### Módulo 5: Conclusão e Deploy
+#### Módulo 6: Conclusão e Deploy
 
-15. **Aula 15: Revisão do Projeto e Deploy**
+18. **Aula 18: Revisão do Projeto e Deploy**
     - **Revisão Geral do Sistema:**
       - Verificação das funcionalidades e integração
     - **Deploy da Aplicação:**
@@ -132,4 +155,5 @@
 - **Backend:** Java, Spring Boot
 - **Banco de Dados:** JPA/Hibernate
 - **Segurança:** Spring Security
+- **Documentação:** Swagger/OpenAPI
 - **Padrão de Projeto:** MVC
